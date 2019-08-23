@@ -1,5 +1,6 @@
 # Flow Gaming API v1
 This was the first version of the REST API for Flow Gaming
+The api has been moved to API v2(Still in beta) which replaces the basic Express.js routing with GraphQL and MySQL is replaced with MongoDB
 
 # Authentication
 The request sender must include a cookie with the name id and the value of the request senders personal account id
