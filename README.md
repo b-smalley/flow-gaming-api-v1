@@ -2,8 +2,8 @@
 This was the first version of the REST API for Flow Gaming
 
 # Authentication
-The request sender must include a cookie with the name id and the value of the request senders personal account id cookie
-AKA The request sender must log into the website to get thier uniqueid
+The request sender must include a cookie with the name id and the value of the request senders personal account id
+AKA The request sender must log into the website to get thier uniqueid attached to them
 
 # Getting User Data
 
